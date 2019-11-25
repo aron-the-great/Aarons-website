@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body { 
+    height: 100%;
+    width: 100%;
+    text-align: center;
+} 
+h1 {
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 40pt
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 13pt;
+}
+a {
+    color: white;
+    transition: color 0.2s ease;
+}
+a:hover {
+    color: yellow;
+}
+a:active{
+    color: aqua;
+}
+.picture{
+    height: 20em;
+    width: 20em;
+    border-radius: 1 em;
+    border: solid 1em silver;
+    margin-top: 1em;
+}
+.header {
+    margin-top: 1em;
+}
+.about-me {
+    margin-top: 1em;
+}
+.my-links {
+    margin-top: 1em;
+}
