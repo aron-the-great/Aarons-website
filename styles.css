@@ -36,7 +36,7 @@ a:active{
 .picture{
     height: 20em;
     width: 20em;
-    border-radius: 1 em;
+    border-radius: 2em;
     border: solid 1em silver;
     margin-top: 1em;
 }
